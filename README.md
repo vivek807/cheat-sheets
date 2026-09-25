@@ -6,6 +6,7 @@ Personal collection of technical cheat sheets, organised by topic.
 
 | Topic | Sheet |
 |---|---|
+| AI Agentic | [ai_agentic_terms_cheat_sheet.md](ai-agentic/ai_agentic_terms_cheat_sheet.md) |
 | Data Engineering | [data_engineering_cheat_sheet.pdf](data-engineering/data_engineering_cheat_sheet.pdf) |
 | Language | [useful_terms_and_expressions_cheat_sheet.pdf](language/useful_terms_and_expressions_cheat_sheet.pdf) |
 
